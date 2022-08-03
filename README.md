@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmishti&label=Profile%20views&color=0e75b6&style=flat" alt="itzmishti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzmishti" alt="itzmishti" /></a> </p>
-
 - 🔭 I’m currently working on **Nexxis Care at Barco**
 
 - 🌱 I’m currently learning **Javascript ES6**
