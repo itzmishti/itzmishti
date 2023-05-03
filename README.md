@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and an engineer in making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmishti&label=Profile%20views&color=0e75b6&style=flat" alt="itzmishti" /> </p>
-<img align="right" alt="coding" width="400" src="[https://www.milleworld.com/wp-content/uploads/2023/04/lofi-boy.jpg](https://cdn.vox-cdn.com/thumbor/0AnrHamN46EqpzPyunj8SMSjYD8=/0x0:480x270/1400x933/filters:focal(202x97:278x173):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72170232/lofiboygif.6.gif)">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.polygon.com%2F23679048%2Flofi-girl-disappeared-where-synthwave-radio-youtube&psig=AOvVaw0qju4OUxQF2HQJ35ToHwzk&ust=1683183230144000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC98abI2P4CFQAAAAAdAAAAABAD">
 
 - 🔭 I’m currently working on **Nexxis Care at Barco**
 
