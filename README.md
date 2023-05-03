@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer and an engineer in making</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmishti&label=Profile%20views&color=0e75b6&style=flat" alt="itzmishti" /> </p>
+<p align="right"><img src="https://www.milleworld.com/wp-content/uploads/2023/04/lofi-boy.jpg"></p>
 
 - 🔭 I’m currently working on **Nexxis Care at Barco**
 
