@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **JP Morgan Chase and Co.**
 
-- 🌱 I’m currently learning ** developing clean UI **
+- 🌱 I’m currently working on **developing clean UI**
 
 - 📫 How to reach me **vgupta4_be20@thapar.edu**
 
