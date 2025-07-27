@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzmishti&label=Profile%20views&color=0e75b6&style=flat" alt="itzmishti" /> </p>
 <img align="right" alt="coding" width="400" src="https://s.yimg.com/uu/api/res/1.2/1NrcO0Ayf189KbBzKj4CLg--~B/Zmk9ZmlsbDtoPTQ4OTt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/85098860-d893-11ed-bd7d-1852aa8fc490.cf.jpg">
 
-- 🔭 I’m currently working on **Nexxis Care at Barco**
+- 🔭 I’m currently working at **JP Morgan Chase and Co.**
 
-- 🌱 I’m currently learning **Javascript ES6**
+- 🌱 I’m currently learning ** developing clean UI **
 
 - 📫 How to reach me **vgupta4_be20@thapar.edu**
 
